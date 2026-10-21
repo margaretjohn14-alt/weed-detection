@@ -22,7 +22,10 @@ reduce crop yield.
 
 ## Example Detections
 
-<!-- Add 3 inference example images here after running inference -->
+![Detection 1](inference_examples/20210907_153931_x264_mp4-102_jpg.rf.a85985b4a8d1fe7a0aa2dc2fac2529ca.jpg)
+![Detection 2](inference_examples/20210907_153931_x264_mp4-1184_jpg.rf.7224b1bcd2cc8f79b7b0ba023b27c964.jpg)
+![Detection 3](inference_examples/20210907_153931_x264_mp4-1304_jpg.rf.35955b07110e570d8fd4f5a7fbd02cdd.jpg)
+
 
 ## Limitations and Next Steps
 
